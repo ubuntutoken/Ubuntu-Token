@@ -1,2 +1,11 @@
 # Ubuntu-Token
-Ubuntu Token is a charity token that is inspired by our love for humanity and making a difference in the community.
+Ubuntu Token is a charity token inspired by our passion and love for charity and our desire to give back to the community.  This token is inspired by the Ubuntu philosophy of love, compassion and kindness, “I am because we are”. UBUT has designed a mechanism to connect crypto investors with a reliable and robust donation pathway while also raising the bar for transparency and accountability in the Binance Smart Chain (BSC) charity token space. UBUT will build a very strong charitable strategy that will leverage the capabilities of block chain technology to ensure all funding and donations have the widest reach globally across different charitable causes. It will do this by leveraging block chain transactions tax fees to feed the donation wallet. We have an awesome token economy that will benefit both the token holders and the charities. The initial launch of the token will be in the 3rd week of September 2021 through a presale event hosted on our ICO platform.
+
+# Vision
+To build a society where everyone can achieve their full potential and actively contribute to national growth and development. To improve the lives of millions of people living with disabilities, to support cancer research and treatment, to support education of the less privileged.
+
+# Core Values
+To drive inclusion & transparency in charity through the power of possibilities in crypto, ensuring no one is left behind and putting a smile on the faces of the needy and the vulnerable people in our community. 
+
+# Partnership
+The Ubuntu Token has collaborated with Achieving Souls Foundation, Chikwem Foundation, Ifediora Cancer Foundation (OCI), Apostle Samuel Egbo Foundation and Steno Memorial Foundation. By supporting and donating to these charities, the Ubuntu token will achieve its vision by leveraging on block chain transaction tax fees to feed the donation wallet. Funds will be generated from various sources: transaction fees, percentage of token allocated to Charity, fundraising, and donations. Moving forward, our chosen Partners will continue to evolve as we get more input from the community, and an active forum and voting system will be implemented. Long term, we will continue to build our global alliance network unified across the various charity causes.
